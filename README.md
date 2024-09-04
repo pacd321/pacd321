@@ -6,7 +6,7 @@
 
 
 #Contact me :
-<h3 align="left">If you have any questions or want to collaborate , feel free to react me at pacd.anish@gmail.com</h3>
+<h3 align="left">If you have any questions or want to collaborate , feel free to reach me at pacd.anish@gmail.com</h3>
 ---
 
 ###
